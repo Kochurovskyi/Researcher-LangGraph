@@ -14,7 +14,9 @@ wheels/
 
 # Generated reports and outputs
 research_report.md
-*.png
+
+# Generated graph visualizations (keep these)
+# *.png
 
 # IDE and editor files
 .vscode/
